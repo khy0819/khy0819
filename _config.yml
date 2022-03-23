@@ -234,5 +234,3 @@ window.onclick = function(event) {
 
 </body>
 </html>
-
-theme: jekyll-theme-minimal
